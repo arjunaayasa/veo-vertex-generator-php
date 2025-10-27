@@ -1,10 +1,3 @@
-git clone <repository-url> veo3
-define('PROJECT_ID', 'your-actual-project-id');
-define('LOCATION', 'us-central1'); // or your preferred region
-define('CREDENTIALS_PATH', __DIR__ . '/service-account-key.json');
-define('STORAGE_BUCKET', 'gs://your-bucket-name');
-gcloud auth login
-gcloud config set project YOUR_PROJECT_ID
 # Veo3 Video Generator
 
 Modern PHP web app for generating videos with Google Cloud Vertex AI Veo models.
