@@ -1,4 +1,5 @@
-# Veo3 Video Generator
+
+# Veo Video Generator
 
 Modern PHP web app for generating videos with Google Cloud Vertex AI Veo models.
 
@@ -6,7 +7,7 @@ Modern PHP web app for generating videos with Google Cloud Vertex AI Veo models.
 
 ## Overview
 
-Veo3 Video Generator delivers a Hugging Face Space–style interface on top of Google Cloud Vertex AI. Users bring their own credentials, choose any available Veo model, and generate video directly from text or image prompts without editing config files.
+Veo Video Generator delivers a modern style interface on top of Google Cloud Vertex AI. Users bring their own credentials, choose any available Veo model, and generate video directly from text or image prompts without editing config files.
 
 ## Feature Highlights
 
