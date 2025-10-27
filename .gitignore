@@ -1,0 +1,58 @@
+# Configuration files
+config/service-account-key.json
+config/*.json
+
+# Data files
+data/gallery.json
+data/*.json
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.cache
+*.bak
+*.backup
+*.old
+*~
+
+# Credentials & keys
+*.pem
+*.p12
+*.key
+
+# Shell history & artifacts
+.history
+.bash_history
+.zsh_history
+.python_history
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# PHP
+vendor/
+composer.lock
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Uploads
+uploads/
+temp/
+
+
+index.
